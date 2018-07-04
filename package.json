@@ -1,0 +1,15 @@
+{
+  "name": "domex",
+  "version": "1.0.0",
+  "description": "Browser base implementation of express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Samundra khatri",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.3.0"
+  }
+}
